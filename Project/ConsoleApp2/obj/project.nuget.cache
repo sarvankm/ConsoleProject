@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kRfTEiZ92a3mvhBUKBzqmYKM8piRmV0u2iQF9xJPNDJBkOqP918VGQzFXaXUtiYVQIXlqpfLP6LJf6+D85wC/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IDEAPAD\\Desktop\\developing\\lessons C#\\p216_17-11-2020-sarvankm\\Project\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IDEAPAD\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\IDEAPAD\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\IDEAPAD\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\IDEAPAD\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
